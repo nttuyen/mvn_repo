@@ -7,17 +7,23 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20131030162556</lastUpdated>
+    <lastUpdated>20131031153010</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>apklib</extension>
         <value>0.1-SNAPSHOT</value>
-        <updated>20131030162556</updated>
+        <updated>20131031153010</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.1-SNAPSHOT</value>
-        <updated>20131030162556</updated>
+        <updated>20131031153010</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.1-SNAPSHOT</value>
+        <updated>20131031152729</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
